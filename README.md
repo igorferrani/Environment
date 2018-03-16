@@ -1,5 +1,11 @@
 # Environment
 Configurações de ambientes de desenvolvimento para Linux OS - Ubuntu 17.10
+
+Pra rodar o script de instalação, execute o comando na raiz do projeto
+```
+./install.sh
+```
+
 ## VSCode
 ### KeyBindings
 ---
