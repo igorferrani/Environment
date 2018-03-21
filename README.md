@@ -1,13 +1,19 @@
 # Environment
 Configurações de ambientes de desenvolvimento para Linux OS - Ubuntu 17.10
 
-Pra rodar o script de instalação, execute o comando na raiz do projeto
+### Comandos NPM
+#### salvar preferências locais no diretório do repositório local
 ```
-./install.sh
+npm run save
 ```
 
-## VSCode
-### KeyBindings
+#### Carregar configurações para a máquina
+```
+npm run load
+```
+
+### VSCode
+#### KeyBindings
 ---
 File path: ~/.config/Code/User/keybindings.json
 ---
@@ -27,7 +33,7 @@ File path: ~/.config/Code/User/keybindings.json
 ]
 ```
 
-### User Settings
+#### User Settings
 ---
 File path: ~/.config/Code/User/settings.json
 ---
