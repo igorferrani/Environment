@@ -2,13 +2,12 @@
 Configurações de ambientes de desenvolvimento para Linux OS - Ubuntu 17.10
 
 ### Comandos NPM
-#### salvar preferências locais no diretório do repositório local
-```
-npm run save
-```
 
-#### Carregar configurações para a máquina
-```
+``` bash
+# salvar preferências locais no remote
+npm run save
+
+# Carregar configurações para a máquina
 npm run load
 ```
 
