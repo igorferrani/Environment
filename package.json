@@ -1,0 +1,21 @@
+{
+  "name": "myenvironment",
+  "version": "1.0.0",
+  "description": "Configurações de ambientes de desenvolvimento para Linux OS - Ubuntu 17.10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "load": "./load.sh",
+    "save": "./save.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorferrani/MyEnvironment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorferrani/MyEnvironment/issues"
+  },
+  "homepage": "https://github.com/igorferrani/MyEnvironment#readme"
+}

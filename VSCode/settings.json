@@ -1,6 +1,7 @@
 {
     "team.showWelcomeMessage": false,
-    "editor.lineHeight": 30,
-    "editor.fontSize": 14,
-    "workbench.colorTheme": "Monokai"
+    "workbench.colorTheme": "Monokai",
+    "files.autoSave": "off",
+    "editor.fontFamily" : "Ubuntu Mono",
+    "editor.fontSize": 16
 }
